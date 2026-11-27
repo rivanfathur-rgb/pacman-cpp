@@ -2,8 +2,7 @@
 
 Game Pac-Man yang dibuat dengan C++ dan library [raylib](https://www.raylib.com/) 5.5. Proyek ini awalnya dibuat sebagai tugas besar mata kuliah algoritma, lalu dikembangkan menjadi game dengan tampilan grafis dan gerakan yang halus.
 
-<!-- Ganti dengan screenshot gamemu, contoh: ![Screenshot game](docs/screenshot.png) -->
-> Tempat screenshot: nanti diisi gambar tampilan game.
+![Tampilan game Pac-Man](docs/Screenshot.png)
 
 ## Fitur
 
